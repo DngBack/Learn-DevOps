@@ -3,6 +3,7 @@
 **Table of Contents**
 [Roadmap Suggestions](#roadmap-suggestions)
 [Languages Programming](#languages-programming)
+[Udemy DevOps Beginners to Advanced with Projects](https://sun-asterisk.udemy.com/course/decodingdevops)
 
 ## Roadmap Suggestions
 
